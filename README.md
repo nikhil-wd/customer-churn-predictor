@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning application that predicts the likelihood of customer churn for subscription-based businesses. Built with Python, Scikit-Learn, and deployed as an interactive web application using Streamlit.
 
-🔗 **Live Demo:** [Click here to test the live app](https://YOUR_LIVE_APP_LINK.streamlit.app)
+🔗 **Live Demo:** [Click here to test the live app][https://YOUR_LIVE_APP_LINK.streamlit.app](https://nikhil-churn.streamlit.app/)
 
 ---
 
